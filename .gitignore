@@ -1,1 +1,5 @@
 api.db
+build-errors.log
+main.exe
+go.mod
+go.sum
